@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/react_laravel_app/static/css/main.ed578bbb.css",
-    "main.js": "/react_laravel_app/static/js/main.4fc29337.js",
+    "main.js": "/react_laravel_app/static/js/main.dfba2850.js",
     "static/js/453.f6713f7b.chunk.js": "/react_laravel_app/static/js/453.f6713f7b.chunk.js",
     "static/media/fontawesome-webfont.svg?v=4.7.0": "/react_laravel_app/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
     "static/media/background.jpg": "/react_laravel_app/static/media/background.931adee6dd02c4f4e293.jpg",
@@ -11,11 +11,11 @@
     "static/media/fontawesome-webfont.woff2?v=4.7.0": "/react_laravel_app/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
     "index.html": "/react_laravel_app/index.html",
     "main.ed578bbb.css.map": "/react_laravel_app/static/css/main.ed578bbb.css.map",
-    "main.4fc29337.js.map": "/react_laravel_app/static/js/main.4fc29337.js.map",
+    "main.dfba2850.js.map": "/react_laravel_app/static/js/main.dfba2850.js.map",
     "453.f6713f7b.chunk.js.map": "/react_laravel_app/static/js/453.f6713f7b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ed578bbb.css",
-    "static/js/main.4fc29337.js"
+    "static/js/main.dfba2850.js"
   ]
 }
