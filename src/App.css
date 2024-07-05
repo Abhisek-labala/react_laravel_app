@@ -1,0 +1,31 @@
+
+        #regModal .modal-content {
+            background-color: #87b9e8;
+            color: black;
+        }
+
+        #regModal .modal-dialog .modal-header {
+            background-color: black;
+            color: white;
+        }
+
+        .btn-close {
+            background-color: white;
+
+        }
+
+        #spreadModal .modal-content {
+            background-color: #000;
+            color: #fff;
+        }
+
+        #validationMessages {
+            color: red;
+
+        }
+        body {
+            background-image: url('./images/background.jpg');
+            background-size: cover; /* Adjusts the background image size */
+            background-position: center; /* Centers the background image */
+            background-repeat: no-repeat; /* Prevents repeating the image */
+          }
